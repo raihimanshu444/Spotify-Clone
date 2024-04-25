@@ -1,3 +1,3 @@
 # Spotify-Clone
 
-This is a spotify clone project using HTML & CSS
+This is a spotify clone project using HTML & Bootstrap(CSS)
